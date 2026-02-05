@@ -1,0 +1,3 @@
+id;nombre;apellido;fechaNacimiento;email;telefono;direccion;estadoCuenta;fechaRegistro
+1001;Juan;Perez;2000-05-10;juan@mail.com;3001112222;Calle 10 #5-20;true;2026-02-05
+1002;Maria;Gomez;1999-09-22;maria@mail.com;3003334444;Carrera 7 #12-34;true;2026-02-05
